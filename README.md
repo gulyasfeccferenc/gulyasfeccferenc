@@ -9,8 +9,8 @@ On a long journey from writing my first Hello World on a Commodore 64 to working
 *   🌍  I'm based in Budapest
 *   🖥️  See my portfolio at [my github-hosted portfolio site 🛠️](http://gulyasfeccferenc.github.io)
 *   ✉️  You can contact me at [ferenckoppany+github@gmail.com](mailto:ferenckoppany+github@gmail.com)
-*   🚀  I'm currently working on [MinekVanSzezonja](http://minekvanszezonja.hu)
-*   🧠  I'm learning React, Redux with some Nest.js
+*   🚀  I'm currently working on [ManyFest](http://manyfest.hu)
+*   🧠  I'm learning Nest.js with some AWS
 
 ### Skills 
 <p align="left">
